@@ -6,7 +6,6 @@ Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**, and
 ## 🎯 About Me
 
 - 🇫🇷 French student, 24 years old
-- 🌍 Practicing and showcasing my English skills
 - 🖥️ Exploring web development
 - 🎵 Music lover
 - ⌨️ Enthusiast for tech and computer peripherals (keyboards, mice, and more!)
@@ -14,7 +13,7 @@ Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**, and
 ## 🛠️ What I'm Learning
 
 - **HTML & CSS**: Building and styling web pages
-- **More to come!**: Planning to learn JavaScript, frameworks, and backend technologies as my course continues
+- **More to come!**: Planning to learn JavaScript, frameworks, PHP and backend technologies as my course continues
 
 ## 🚀 Goals
 
