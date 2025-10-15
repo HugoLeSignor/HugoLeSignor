@@ -23,9 +23,9 @@ Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**, and
 
 ## 📫 Get in Touch
 
-- **Email:** See my GitHub profile for my contact email
+- **Email:** (Soon)
 - **Discord:** imaaza
-- **LinkedIn:** (Coming soon!)
+- **LinkedIn:** (Soon)
 
 Feel free to connect or check out my projects as I continue my journey.  
 I'm always open to meeting other students, developers, or anyone who shares similar passions!
