@@ -35,10 +35,10 @@ Tools & Workflow
 - Chrome DevTools ▇▇▇▇▇░░░░ 50%
 
 Concepts & Practices
-- Responsive design — mobile-first layouts and media queries
+- Responsive design - mobile-first layouts and media queries
 - Semantic HTML & basic accessibility (a11y)
 - CSS architecture: partials, variables, nesting
-- BEM (Block Element Modifier) — using BEM naming for scalable, maintainable CSS and clearer component structure
+- BEM (Block Element Modifier) - using BEM naming for scalable, maintainable CSS and clearer component structure
 
 ## 🚀 Goals
 
