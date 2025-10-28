@@ -54,4 +54,4 @@ Concepts & Practices
 
 ---
 
-*Thanks you*
+*Thank you*
