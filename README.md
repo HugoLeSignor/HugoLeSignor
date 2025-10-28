@@ -17,6 +17,29 @@ Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**. I'm
 - **Tailwind CSS**
 - **More to come!**: Planning to learn JavaScript, frameworks, PHP and backend technologies as my course continues
 
+## 🧰 Skills
+
+Languages & Markup
+- HTML      ▇▇▇▇▇▇▇▇░░ 80%
+- CSS       ▇▇▇▇▇▇▇▇░░ 75%
+- SCSS      ▇▇▇▇░░░░░░ 40%
+- JavaScript▇▇▇░░░░░░ 30%
+
+Frameworks & Styling
+- Tailwind CSS ▇▇▇▇░░░░░ 35%
+- (Working knowledge of utility-first workflow and building responsive components)
+
+Tools & Workflow
+- Git & GitHub    ▇▇▇▇▇░░░░ 50%
+- VS Code         ▇▇▇▇▇░░░░ 50%
+- Chrome DevTools ▇▇▇▇▇░░░░ 50%
+
+Concepts & Practices
+- Responsive design — mobile-first layouts and media queries
+- Semantic HTML & basic accessibility (a11y)
+- CSS architecture: partials, variables, nesting
+- BEM (Block Element Modifier) — using BEM naming for scalable, maintainable CSS and clearer component structure
+
 ## 🚀 Goals
 
 - Create projects I'm proud to share
