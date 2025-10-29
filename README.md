@@ -22,7 +22,6 @@ Languages & Markup
 - HTML
 - CSS
 - SCSS
-- JavaScript
 
 Frameworks & Styling
 - Tailwind CSS
