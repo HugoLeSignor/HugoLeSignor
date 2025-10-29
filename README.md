@@ -1,7 +1,6 @@
 # Hi, I'm Hugo!
 
 I'm a 24-year-old student from France, passionate about technology, music, and the world of web development.  
-Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**. I'm excited to expand my knowledge with more programming languages and tools as I progress through my studies.
 
 ## About Me
 
@@ -20,13 +19,13 @@ Currently, I'm focused on learning the fundamentals of **HTML** and **CSS**. I'm
 ## 🧰 Skills
 
 Languages & Markup
-- HTML      ▇▇▇▇▇▇▇▇░░ 80%
-- CSS       ▇▇▇▇▇▇▇▇░░ 75%
-- SCSS      ▇▇▇▇░░░░░░ 40%
-- JavaScript▇▇▇░░░░░░ 30%
+- HTML
+- CSS
+- SCSS
+- JavaScript
 
 Frameworks & Styling
-- Tailwind CSS ▇▇▇▇▇░░░░ 50%
+- Tailwind CSS
 - (Working knowledge of utility-first workflow and building responsive components)
 
 Tools & Workflow
