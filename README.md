@@ -26,13 +26,13 @@ Languages & Markup
 - JavaScript▇▇▇░░░░░░ 30%
 
 Frameworks & Styling
-- Tailwind CSS ▇▇▇▇░░░░░ 35%
+- Tailwind CSS ▇▇▇▇▇░░░░ 50%
 - (Working knowledge of utility-first workflow and building responsive components)
 
 Tools & Workflow
-- Git & GitHub    ▇▇▇▇▇░░░░ 50%
-- VS Code         ▇▇▇▇▇░░░░ 50%
-- Chrome DevTools ▇▇▇▇▇░░░░ 50%
+- Git & GitHub
+- VS Code
+- Chrome DevTools
 
 Concepts & Practices
 - Responsive design - mobile-first layouts and media queries
