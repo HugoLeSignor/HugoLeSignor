@@ -15,6 +15,7 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 - **SCSS (Sass)**
 - **Tailwind CSS**
 - **More to come!**: Planning to learn JavaScript, frameworks, PHP and backend technologies as my course continues
+- **neovim**: Trying to get into Vim recently
 
 ## 🧰 Skills
 
