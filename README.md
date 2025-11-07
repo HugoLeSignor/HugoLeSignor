@@ -11,18 +11,21 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 
 ## 🛠️ What I'm Learning
 
-- **HTML & CSS**
-- **SCSS (Sass)**
-- **Tailwind CSS**
-- **More to come!**: Planning to learn JavaScript, frameworks, PHP and backend technologies as my course continues
-- **neovim**: Trying to get into Vim recently
+- **JavaScript**: (currently learning)
+- **Algorithms**: (currently learning)
+- **More to come!**: Planning to learn WordPress, PHP, MySQL, Symfony and React as my course continues
+
+  ### 🙋‍♂️ Personnal projects:
+  
+- **neovim**: Following guides to learn Vim movement and use Neovim as my text editor for personnal projects
+- **Guitar**: Currently trying to get into guitar more !
 
 ## 🧰 Skills
 
 Languages & Markup
 - HTML
 - CSS
-- SCSS
+- SCSS (Sass)
 
 Frameworks & Styling
 - Tailwind CSS
@@ -61,7 +64,7 @@ _N’hésitez pas à consulter le projet et à donner votre avis !_
 
 - **Email:** (Soon)
 - **Discord:** imaaza
-- **LinkedIn:** (Soon)
+- **[My LinkedIn](https://www.linkedin.com/in/hugo-le-signor-4335b2353/)** 
 
 ---
 
