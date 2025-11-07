@@ -39,6 +39,18 @@ Concepts & Practices
 - CSS architecture: partials, variables, nesting
 - BEM (Block Element Modifier) - using BEM naming for scalable, maintainable CSS and clearer component structure
 
+## Projets
+
+### [Ohm Sweet Ohm](https://ohm-sweet-ohm-iota.vercel.app/#)
+**Technos utilisées :** HTML, Tailwind CSS  
+**Type de projet :** Application web axée sur le bien-être mental
+
+Ce projet propose une plateforme intuitive destinée à améliorer le bien-être mental des utilisateurs :
+- Design centré sur la simplicité et la clarté pour une expérience utilisateur positive.
+- Hébergé en ligne, ce site est facilement accessible via le lien ci-dessus.
+
+_N’hésitez pas à consulter le projet et à donner votre avis !_
+
 ## 🚀 Goals
 
 - Create projects I'm proud to share
