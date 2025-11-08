@@ -19,6 +19,7 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
   
   - **neovim**: Following guides to learn Vim movement and use Neovim as my text editor for personnal projects
   - **Guitar**: Currently trying to get into guitar more !
+  - **Portfolio**: Figuring out what design i wanna have for my portfolio 
 
 ## 🧰 Skills
 
