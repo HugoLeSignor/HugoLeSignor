@@ -12,7 +12,6 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 ## 🛠️ What I'm Learning
 
 - **JavaScript**: (currently learning)
-- **Algorithms**: (currently learning)
 - **More to come!**: Planning to learn WordPress, PHP, MySQL, Symfony and React as my course continues
 
   ### 🙋‍♂️ Personnal projects:
@@ -26,16 +25,17 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 Languages & Markup
 - HTML
 - CSS
-- SCSS (Sass)
+
 
 Frameworks & Styling
 - Tailwind CSS
-- (Working knowledge of utility-first workflow and building responsive components)
+- SCSS (Sass)
 
 Tools & Workflow
 - Git & GitHub
 - VS Code
 - Chrome DevTools
+- Windows and Linux
 
 Concepts & Practices
 - Responsive design - mobile-first layouts and media queries
