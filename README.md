@@ -11,8 +11,8 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 
 ## 🛠️ What I'm Learning
 
-- **JavaScript**: (currently learning)
-- **More to come!**: Planning to learn WordPress, PHP, MySQL, Symfony and React as my course continues
+- **PHP**: (currently learning)
+- **More to come!**: Planning to learn Symfony and React as my course continues
 
   ### 🙋‍♂️ Personnal projects:
   
@@ -25,6 +25,9 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 Languages & Markup
 - HTML
 - CSS
+- JavaScript
+- PHP
+- MySQL
 
 
 Frameworks & Styling
@@ -33,6 +36,7 @@ Frameworks & Styling
 
 Tools & Workflow
 - Git & GitHub
+- WordPress
 - VS Code
 - Chrome DevTools
 - Windows and Linux
