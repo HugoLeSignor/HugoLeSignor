@@ -11,8 +11,7 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 
 ## 🛠️ What I'm Learning
 
-- **PHP**: (currently learning)
-- **More to come!**: Planning to learn Symfony and React as my course continues
+- **Symfony**: (currently learning)
 
   ### 🙋‍♂️ Personnal projects:
   
@@ -33,6 +32,7 @@ Languages & Markup
 Frameworks & Styling
 - Tailwind CSS
 - SCSS (Sass)
+- Symfony
 
 Tools & Workflow
 - Git & GitHub
