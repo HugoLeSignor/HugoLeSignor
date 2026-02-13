@@ -53,11 +53,17 @@ Concepts & Practices
 **Technos utilisées :** HTML, Tailwind CSS  
 **Type de projet :** Application web axée sur le bien-être mental
 
-Ce projet propose une plateforme intuitive destinée à améliorer le bien-être mental des utilisateurs :
+Ce projet propose une plateforme intuitive destinée à améliorer le bien-être mental des utilisateurs :
 - Design centré sur la simplicité et la clarté pour une expérience utilisateur positive.
 - Hébergé en ligne, ce site est facilement accessible via le lien ci-dessus.
 
-_N’hésitez pas à consulter le projet et à donner votre avis !_
+_N'hésitez pas à consulter le projet et à donner votre avis !_
+
+### [Darkest Fight Arena](http://darkest-fight-arena.sc7duyo5958.universe.wf/)
+**Technos utilisées :** PHP, MySQL
+**Type de projet :** Jeu de combat en arène
+
+Un jeu de combat interactif où vous pouvez affronter différents adversaires dans une arène sombre.
 
 ## 🚀 Goals
 
