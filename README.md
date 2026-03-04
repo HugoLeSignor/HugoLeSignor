@@ -9,15 +9,11 @@ I'm a 24-year-old student from France, passionate about technology, music, and t
 - 🎵 Music lover
 - ⌨️ Enthusiast for tech and computer peripherals (keyboards, mice, and more)
 
-## 🛠️ What I'm Learning
-
-- **Symfony**: (currently learning)
-
-  ### 🙋‍♂️ Personnal projects:
+### 🙋‍♂️ Personnal projects:
   
-  - **neovim**: Following guides to learn Vim movement and use Neovim as my text editor for personnal projects
-  - **Guitar**: Currently trying to get into guitar more !
-  - **Portfolio**: Figuring out what design i wanna have for my portfolio 
+- **neovim**: Following guides to learn Vim movement and use Neovim as my text editor for personnal projects
+- **Guitar**: Currently trying to get into guitar more !
+- **Portfolio**: Figuring out what design i wanna have for my portfolio 
 
 ## 🧰 Skills
 
@@ -27,7 +23,6 @@ Languages & Markup
 - JavaScript
 - PHP
 - MySQL
-
 
 Frameworks & Styling
 - Tailwind CSS
